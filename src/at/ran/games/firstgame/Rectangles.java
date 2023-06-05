@@ -1,4 +1,4 @@
-package at.ran.games.firstgame;
+ package at.ran.games.firstgame;
 
 import org.newdawn.slick.*;
 import org.newdawn.slick.tests.AnimationTest;
